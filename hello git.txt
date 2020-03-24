@@ -1,4 +1,4 @@
 hello, git
 hello again git
 append GPL
-git manage modification
+git manage modification rather than file
